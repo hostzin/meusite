@@ -1,6 +1,6 @@
 ## Guia de Cursos para iniciar e se especializar na carreira de T.I
 
-Mini-site estático desenvolvido como atividade da disciplina **Internet e Aplicações Web – Progressão Parcial** do curso de **Técnico em Desenvolvimento de Sistemas (TDS)** do IFPI.
+Mini-site estático desenvolvido como atividade da disciplina **Internet e Aplicações Web** do curso de **Técnico em Desenvolvimento de Sistemas (TDS)** do IFPI.
 
 O objetivo do site é apresentar alguns cursos locais e presenciais da área de Tecnologia da Informação, divididos em três categorias:
 
